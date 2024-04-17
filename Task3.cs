@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace ConsoleApp2
 {
-    class Program
+    class Task3
     {
         class Folder
         {
