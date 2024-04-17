@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ConsoleApp2
 {
-    class Program
+    class Task4
     {
         static void Main(string[] args)
         {
